@@ -10,7 +10,7 @@ width: 100%;
 
 .setka {
   outline: 1px solid #FF0000;
-  text-align: center;
+  /* text-align: center; */
   background: #FFF0F5;}
 
 .left-side {
@@ -18,12 +18,19 @@ width: 100%;
   outline: 1px solid #000000;
   background: #F0F8FF;}
 
-@media(max-width: 576px){.disp-none { display: none; }}
+/* @media(max-width: 576px){.disp-none { display: none; }} */
 
-.no-gutters {
-  
-  padding-right: 0;
-  padding-left: 0;
+.card-bloc{
+  outline: 1px solid black;
+  background: yellowgreen;
+  width: 320px;
+  height: 400px;
+}
 
- 
+.sidebar-bloc{
+  outline: 1px solid black;
+  background: green;
+  width: 300px;
+  height: 1000px;
+  /* box-sizing: border-box; */
 }
