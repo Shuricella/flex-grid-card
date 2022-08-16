@@ -4,7 +4,7 @@ margin-top: 10px;
 margin-bottom: 10px;
 
 outline: 1px solid #000000;
-width: 100%;
+width: 1500px;
 /* height: 100vh; */
 }
 
@@ -24,10 +24,12 @@ width: 100%;
   background: green;
   width: 300px;
   height: 1000px;
+
 }
 .sidebar-conteiner{
-  min-width: 325px;
-  max-width: 330px;
+  /* min-width: 325px;
+  max-width: 330px; */
+  width: 50%;
 }
 
 
