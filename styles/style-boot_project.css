@@ -13,10 +13,23 @@ width: 100%;
   /* text-align: center; */
   background: #FFF0F5;}
 
+
 .left-side {
   height: 100vh;
   outline: 1px solid #000000;
   background: #F0F8FF;}
+
+.sidebar-bloc{
+  outline: 1px solid black;
+  background: green;
+  width: 300px;
+  height: 1000px;
+}
+.sidebar-conteiner{
+  min-width: 325px;
+  max-width: 330px;
+}
+
 
 /* @media(max-width: 576px){.disp-none { display: none; }} */
 
@@ -27,10 +40,9 @@ width: 100%;
   height: 400px;
 }
 
-.sidebar-bloc{
-  outline: 1px solid black;
-  background: green;
-  width: 300px;
-  height: 1000px;
-  /* box-sizing: border-box; */
+.card-conteiner{
+  min-width: 325px;
+  max-width: 330px;
+  min-height: 405px;
+  max-height: 410px;
 }
