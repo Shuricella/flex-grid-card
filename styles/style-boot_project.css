@@ -5,7 +5,7 @@ margin-bottom: 10px;
 
 outline: 1px solid #000000;
 /* зададим max размер контейнера для сайта */
-min-width: 1270px;
+min-width: 700px;
 }
 
 .setka {
@@ -15,24 +15,6 @@ min-width: 1270px;
 }
 
 
-.left-side {
-  height: 100vh;
-  outline: 1px solid #000000;
-  background: #F0F8FF;
-  display: flex;
-  justify-content: center;
-}
-
-.sidebar-bloc{
-  outline: 1px solid black;
-  background: green;
-  width: 300px;
-  height: 1000px;
-
-}
-
-
-/* @media(max-width: 576px){.disp-none { display: none; }} */
 
 .card-bloc{
   outline: 1px solid black;
@@ -49,23 +31,3 @@ min-width: 1270px;
 }
 
 
-.col-6{
-  min-width: 325px;
-  max-width: 330px;
-  min-height: 405px;
-  max-height: 410px;
-}
-
-.col-sm-6{
-  min-width: 325px;
-  max-width: 330px;
-  min-height: 405px;
-  max-height: 410px;
-}
-
-.col-xxl-4{
-  min-width: 325px;
-  max-width: 330px;
-  min-height: 405px;
-  max-height: 410px;
-}
