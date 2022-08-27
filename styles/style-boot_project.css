@@ -5,7 +5,8 @@ margin-bottom: 10px;
 
 outline: 1px solid #000000;
 /* зададим max размер контейнера для сайта */
-min-width: 700px;
+min-width: 800px;
+
 }
 
 .setka {
@@ -14,22 +15,9 @@ min-width: 700px;
   /* background: #FFF0F5; */
 }
 
-
-
-.card-bloc{
-  outline: 1px solid black;
-  background: yellowgreen;
-  width: 320px;
-  height: 400px;
+.otstup{padding-top: 10px;
+padding-bottom: 10px;
 }
-
-.card-conteiner{
-  min-width: 325px;
-  max-width: 330px;
-  min-height: 405px;
-  max-height: 410px;
-}
-
 
 
 
