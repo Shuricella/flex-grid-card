@@ -25,6 +25,12 @@
             height: 100%;
         }
 
+        .products{
+            width: 310px;
+            height: 400px;
+            background: #7FFF00;
+        }
+
         .frame-combo{
             outline: 1px solid #B8860B;
             background: #9932CC;
