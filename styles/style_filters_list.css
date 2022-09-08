@@ -48,7 +48,9 @@
   list-style: none;}
 
 .text-color-filters{
-  color: #808080;}
+  color: #808080;
+  font-size: 16px;
+}
 
 .blok-slider{
   outline: 1px solid black;
