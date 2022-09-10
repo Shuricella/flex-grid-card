@@ -3,26 +3,31 @@
 <head>
   <meta charset="UTF-8" />
   <title>FiltersList component</title>
+
   <link rel="stylesheet" href="styles/style_filters_list.css">
+  <link rel="stylesheet" href="styles/style-slider.css">
+
 </head>
 <body>
   <main>
     <div class="wrapper-filters-list">
 
 
+      <div class="blok-slider">
 
+        <div class="blok-slider-text">Prise</div>
 
+        <div class="wrapper-slider">
+          
+          <input type="range" class="form-range-slider" min="0" max="85000"  step="1000" id="customRange1">
+          <div class="blok-slider-cena">
+            <div class="cena-slider"><div class="number-slider">0 UA</div></div>
+            <div class="cena-slider mix-slider"><div class="number-slider">85000 UA</div></div>
+          </div>
+          
+        </div>
 
-
-
-      <div class="blok-slider">SLIDER</div>
-
-
-
-
-
-
-
+      </div>
 
 
       <div class="category-filters-list">
@@ -73,7 +78,6 @@
 
         </form>
       </div>
-
 
 
       <div class="brand">
@@ -149,17 +153,22 @@
       </div>
 
 
+      <div class="blok-slider">
 
+        <div class="blok-slider-text">Rating</div>
 
+        <div class="wrapper-slider">
+          
+          <input type="range" class="form-range-slider" min="0" max="5"  step="1" id="customRange1">
 
+        <div class="blok-slider-cena">
+            <div class="cena-slider-rating"><div class="number-slider">0</div></div>
+            <div class="cena-slider-rating"><div class="number-slider">5</div></div>
+        </div>
 
+        </div>
 
-      <div class="blok-slider">SLIDER</div>
-
-
-
-
-
+      </div>
 
 
     </div>

@@ -88,5 +88,6 @@ box-shadow:0 0 10px #555;}
     justify-content: center;
     align-items: center;}
     .corect5{font-size: 14px; color: white;}
-    .knop:hover {outline: 2px solid #00BFFF;}
-    .knop:hover .corect5{color: #00CED1;}
+    .knop:hover {background: #00008B;}
+    /* .knop:hover {outline: 2px solid #00BFFF;} */
+    /* .knop:hover .corect5{color: #00CED1;} */
