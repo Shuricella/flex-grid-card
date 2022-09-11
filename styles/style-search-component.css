@@ -1,0 +1,36 @@
+.wrapper-search-component{
+    outline: 1px solid #000000;
+    border-radius: 8px;
+    margin: 0 auto;
+    width: 100%;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-text{
+    outline: 1px solid #000000;
+    margin-left: 20px;
+    width: 90%;
+    height: 30px;
+    display: flex;
+    align-items: center;}
+.line-search{
+    width: 100%;
+    border: 0px;
+    padding: 0px;
+    border: none;
+    outline: 0 !important;
+    font-size: 20px;}
+
+.search-icon{
+    /* outline: 1px solid #000000; */
+    margin-left: 10px;
+    width: 40px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
