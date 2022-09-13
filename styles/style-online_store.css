@@ -33,7 +33,7 @@
 
         .products{
             width: 310px;
-            outline: 1px solid black;
+            /* outline: 1px solid black; */
             /* height: 400px; */
             /* background: #7FFF00; */
         }
