@@ -72,6 +72,16 @@
   font-size: 16px;
   margin-left: 7px;}
 
+.cursor-filter-list{
+  cursor: pointer;
+}
+
+/* Размеры квадрата checkbox */
+/* input[type=checkbox] {
+  width: 20px;
+  height: 17px;
+} */
+
 
 
 
