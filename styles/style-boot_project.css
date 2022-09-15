@@ -2,14 +2,11 @@
 margin-top: 10px;
 /* outline: 1px solid #000000; */
 /* зададим max размер контейнера для сайта */
-min-width: 800px;
-}
+min-width: 800px;}
 
 .setka {
   /* outline: 1px solid #FF0000; */
 }
 
 .minimum{
-  min-width: 310px;
-}
-
+  min-width: 310px;}

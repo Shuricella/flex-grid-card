@@ -1,67 +1,53 @@
 .wrapper{
     background: #f9f9f9;
-    height: 100vh;
-}
+    height: 100vh;}
 
 .wrapper-wrapper{
     /* outline: 1px solid #000000; */
     background: #f9f9f9;
     width: 1350px;
-    /* height: 100vh; */
-    margin: 0 auto;
-}
+    margin: 0 auto;}
 
     .header{
         /* outline: 1px solid #A52A2A; */
         /* background: #F0FFFF; */
-        height: 80px;
-    }
+        height: 80px;}
 
     .frame{
         /* outline: 1px solid #7FFF00; */
         /* background: #F5F5DC; */
-        /* height: 95%; */
-        display: flex;
-    }
+        display: flex;}
 
         .frame-products{
             /* outline: 1px solid #B8860B; */
             /* background: #A9A9A9; */
             width: 330px;
-            height: 100%;
-        }
+            height: 100%;}
 
         .products{
             width: 310px;
             /* outline: 1px solid black; */
-            /* height: 400px; */
-            /* background: #7FFF00; */
-        }
+            /* background: #7FFF00; */}
 
         .frame-combo{
             /* outline: 1px solid #B8860B; */
             /* background: #9932CC; */
             width: 100%;
-            height: 100%;
-        }
+            height: 100%;}
 
             .frame-combo-search{
                 /* outline: 1px solid #B8860B; */
                 /* background: #00CED1; */
                 width: 100%;
-                height: 45px;
-            }
+                height: 45px;}
 
             .frame-combo-cardlist{
                 /* outline: 1px solid #B8860B; */
                 /* background: #228B22; */
-                width: 100%;
-                /* height: 1200px; */
-            }
+                width: 100%;}
 
             .frame-combo-pagination{
                 /* outline: 1px solid #B8860B; */
                 /* background: #FF1493; */
                 width: 100%;
-                height: 70px;
-            }
+                height: 70px;}

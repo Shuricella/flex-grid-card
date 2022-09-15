@@ -4,8 +4,7 @@
     height: 80px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-}
+    align-items: center;}
 
     .header-text-online-store{
         /* outline: 1px solid #000000; */
@@ -16,8 +15,7 @@
         align-items: center;
         color: #7e72f2;
         font-weight: 600;
-        margin-left: 20px;
-    }
+        margin-left: 20px;}
 
     .header-cart{
         /* outline: 1px solid #000000; */
@@ -27,16 +25,14 @@
         height: 35px;
         display: flex;
         justify-content: center;
-        align-items: center;
-    }
+        align-items: center;}
         .header-cart-bloc{
             /* outline: 1px solid #000000; */
             width: 95px;
             height: 20px;
             display: flex;
             display: flex;
-            justify-content: center; 
-        }
+            justify-content: center;}
             .header-cart-bloc-resicle{
                 /* outline: 1px solid #000000; */
                 width: 30px;
@@ -44,18 +40,15 @@
                 color: white;
                 display: flex;
                 justify-content: center;
-                align-items: center;
-            }
+                align-items: center;}
             .header-cart-bloc-text{
                 /* outline: 1px solid #000000; */
-                /* width: 40px; */
                 height: 100%;
                 font-size: 14px;
                 color: white;
                 display: flex;
                 justify-content: center;
-                align-items: center;
-            }
+                align-items: center;}
         .button-header-cart-bloc:hover {background: #00008B;}
 
     
